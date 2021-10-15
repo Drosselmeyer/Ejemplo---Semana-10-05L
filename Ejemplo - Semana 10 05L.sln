@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistroNotas", "RegistroNotas\RegistroNotas.csproj", "{4156DA66-F251-49A9-A386-13B84899576B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4156DA66-F251-49A9-A386-13B84899576B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4156DA66-F251-49A9-A386-13B84899576B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4156DA66-F251-49A9-A386-13B84899576B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4156DA66-F251-49A9-A386-13B84899576B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5996B288-02F9-4A2B-AA25-F2EAB3D71F99}
+	EndGlobalSection
+EndGlobal
